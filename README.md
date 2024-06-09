@@ -4,6 +4,8 @@ The Netflix Clone project is a web application designed to mimic the features an
 
  website link- https://netflix-clone-watch.vercel.app/
 
+**For security error- You can use incognito window**
+
 -------------------------------------------------------
 
    
